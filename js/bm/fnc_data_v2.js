@@ -79,7 +79,7 @@ var ary_CharacterData = [
   [1, "The One (Tokyo Dome)",                   [0,1,0,0,0,0,0,0], "bmcost/special/2016_TDRed_TheOne.png"],
   [1, "The One (2017)",                         [0,1,0,0,0,0,0,0], "bmcost/special/2017_TheOne.jpeg"],
   [1, "In The Name Of (Legend S)",              [0,1,0,0,0,0,0,0], "bmcost/special/2017_LegendS_ITNO.jpeg"],
-  [1, "Megitsune (Legend S - not used?)",       [0,1,0,0,0,0,0,0], "bmcost/special/2017_LegendS_Megitsune.jpg"],
+  [1, "Megitsune (Legend S day 1)",             [0,1,0,0,0,0,0,0], "bmcost/special/2017_LegendS_Megitsune.jpg"],
   [1, "Akatsuki (Legend S)",                    [0,1,0,0,0,0,0,0], "bmcost/special/2017_LegendS_Akatsuki.png"],
   [1, "The One (Legend S)",                     [0,1,0,0,0,0,0,0], "bmcost/special/2017_LegendS_TheOne.jpeg"],
   [1, "In The Name Of (World Tour US/EU 2018)", [0,1,0,0,0,0,0,0], "bmcost/special/2018_ITNO.jpeg"],
