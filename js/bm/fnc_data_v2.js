@@ -27,10 +27,10 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
- "Concerts (19)",
- "Song-specific & finales (28)",
+ "Concerts (20)",
+ "Song-specific & finales (29)",
  "Alternate tour versions (4)",
- "Photoshoots (9)",
+ "Photoshoots (10)",
  "Support personnel (11)"
 ];
 
@@ -60,6 +60,7 @@ var ary_CharacterData = [
   [1, "World Tour (JP) 2018 & DNC",             [1,0,0,0,0,0,0,0], "bmcost/2018_WorldTourInJapan.png"],
   [1, "Metal Galaxy World Tour",                [1,0,0,0,0,0,0,0], "bmcost/2019_2020_MGWorldTour.jpeg"],
   [1, "10 BABYMETAL Years",                     [1,0,0,0,0,0,0,0], "bmcost/2020_2021_10BMY.jpeg"],
+  [1, "The Other One",                          [1,0,0,0,0,0,0,0], "bmcost/2023.png"],
   
   [1, "Doki Doki Morning MV",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Ijime, Dame, Zettai MV intro",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
@@ -89,6 +90,7 @@ var ary_CharacterData = [
   [1, "Akatsuki (World Tour JP 2018)",          [0,1,0,0,0,0,0,0], "bmcost/special/2018_WorldTourInJapan_Akatsuki.png"],
   [1, "The One (World Tour JP 2018)",           [0,1,0,0,0,0,0,0], "bmcost/special/2018_WorldTourInJapan_TheOne.jpeg"],
   [1, "The One (Metal Galaxy World Tour)",      [0,1,0,0,0,0,0,0], "bmcost/special/2019_2020_The One.png"],
+  [1, "Metal Kingdom (JP shows)",               [0,1,0,0,0,0,0,0], "bmcost/special/2023_Thrones.jpg"],
   
   [1, "BABYMETAL x CthoniC (Taiwan 2014)",      [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2014_Taiwan_sameasL1997buttransparentsleeves.png"],
   [1, "World Tour 2016 (transparent sleeves)",  [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2016_WorldTour_transparentsleeves.png"],
@@ -104,6 +106,7 @@ var ary_CharacterData = [
   [1, "World Tour 2015 promo photos",           [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2015_TourPromo.jpeg"],
   [1, "World Tour 2016 promo photos",           [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2016_TourPromo.jpeg"],
   [1, "Chosen Seven (2018)",                    [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2018_Chosen7.jpeg"],
+  [1, "Metal Kingdom Thrones (2022)",           [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2022_Thrones.jpg"],
   
   [1, "Babybones (Babybones are eternal)",      [0,0,0,0,1,0,0,0], "bmcost/support/Babybones.png"],
   [1, "Kami band (2012-2017)",                  [0,0,0,0,1,0,0,0], "bmcost/support/2012_2017_Kami.jpeg"],
