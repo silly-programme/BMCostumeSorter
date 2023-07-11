@@ -27,7 +27,7 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
- "Concerts (20)",
+ "Concerts (20)",    // After changing this, remember to go to /js/fnc_main_v3.js and change if statement for default checked box
  "Song-specific & finales (29)",
  "Alternate tour versions (4)",
  "Photoshoots (10)",
