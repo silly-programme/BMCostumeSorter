@@ -118,6 +118,7 @@ var ary_CharacterData = [
   [1, "No Rain No Rainbow orchestra (Legend S)",[0,0,0,0,1,0,0,0], "bmcost/support/2017_LegendS_otherinstrumentalists.png"],
   [1, "Kami band (2018 World Tours)",           [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_Kamis.jpeg"],
   [1, "Muscle-metal (2018 World Tour US/EU)",   [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_dancers.jpeg"],
-  [1, "Kami band (Metal Galaxy World Tour)",    [0,0,0,0,1,0,0,0], "bmcost/support/2019_2020_MGWorldTour_Kamis.jpeg"]
+  [1, "Kami band (Metal Galaxy World Tour)",    [0,0,0,0,1,0,0,0], "bmcost/support/2019_2020_MGWorldTour_Kamis.jpeg"],
+  [1, "'Chibimetal' (BM Returns & BM Begins)",  [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"]
   
 ];
