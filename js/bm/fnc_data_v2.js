@@ -60,7 +60,7 @@ var ary_CharacterData = [
   [1, "World Tour (JP) 2018 & DNC",             [1,0,0,0,0,0,0,0], "bmcost/2018_WorldTourInJapan.png"],
   [1, "Metal Galaxy World Tour",                [1,0,0,0,0,0,0,0], "bmcost/2019_2020_MGWorldTour.jpeg"],
   [1, "10 BABYMETAL Years",                     [1,0,0,0,0,0,0,0], "bmcost/2020_2021_10BMY.jpeg"],
-  [1, "The Other One",                          [1,0,0,0,0,0,0,0], "bmcost/2023.png"],
+  [1, "2023 Rebirth",                           [1,0,0,0,0,0,0,0], "bmcost/2023.png"],
   
   [1, "Doki Doki Morning MV",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Ijime, Dame, Zettai MV intro",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
