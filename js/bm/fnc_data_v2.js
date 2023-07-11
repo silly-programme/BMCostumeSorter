@@ -31,7 +31,7 @@ var ary_TitleData = [
  "Song-specific & finales (29)",
  "Alternate tour versions (4)",
  "Photoshoots (10)",
- "Support personnel (11)"
+ "Support personnel (12)"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
