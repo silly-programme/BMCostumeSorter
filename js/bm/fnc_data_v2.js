@@ -99,6 +99,7 @@ var ary_CharacterData = [
   [1, "World Tour 2016 (transparent sleeves)",  [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2016_WorldTour_transparentsleeves.png"],
   [1, "World Tour 2016 (sleeveless)",           [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2016_WorldTour_sleeveless.jpeg"],
   [1, "World Tour 2017 (sleeveless)",           [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2017_WorldTour_sleevelessSu.jpeg"],
+  [1, "World Tour EU/US 2023 (sleeveless)",     [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2023_WorldTour_sleeveless.jpg"],
   
   [1, "Photoshoot with Marty Friedman (2011)",  [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2011_whitemaid_MFphotoshoot.jpeg"],
   [1, "Tower Records IDZ single release",       [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2013_TowerRecords_IDZ.jpeg"],
@@ -119,9 +120,12 @@ var ary_CharacterData = [
   [1, "Kami band (Legend S)",                   [0,0,0,0,1,0,0,0], "bmcost/support/2017_LegendS_Kamis.png"],
   [1, "Su double for Akatsuki (Legend S)",      [0,0,0,0,1,0,0,0], "bmcost/support/2017_LegendS_Akatsukidouble.png"],
   [1, "No Rain No Rainbow orchestra (Legend S)",[0,0,0,0,1,0,0,0], "bmcost/support/2017_LegendS_otherinstrumentalists.png"],
-  [1, "Kami band (2018 World Tours)",           [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_Kamis.jpeg"],
-  [1, "Muscle-metal (2018 World Tour US/EU)",   [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_dancers.jpeg"],
-  [1, "Kami band (Metal Galaxy World Tour)",    [0,0,0,0,1,0,0,0], "bmcost/support/2019_2020_MGWorldTour_Kamis.jpeg"],
-  [1, "'Chibimetal' (BM Returns & BM Begins)",  [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"]
+  [1, "Kami band (2018 World Tour)",            [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_Kamis.jpeg"],
+  [1, "Muscle-metal (2018 World Tour/10BMY)",   [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_dancers.jpeg"],
+  [1, "Kami band (Metal Galaxy WT/10BMY)",      [0,0,0,0,1,0,0,0], "bmcost/support/2019_2020_MGWorldTour_Kamis.jpeg"],
+  [1, "'Chibimetal' (BM Returns/BM Begins)",    [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
+  [1, "Metal Kingdom dancers (BM Returns)",     [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
+  [1, "The Legend dancers/The First Take robes",[0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
+  [1, "Kami band (2023-)",                      [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"]
   
 ];
