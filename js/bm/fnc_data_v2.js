@@ -126,7 +126,7 @@ var ary_CharacterData = [
   [1, "Kami band (Metal Galaxy WT/10BMY)",      [0,0,0,0,1,0,0,0], "bmcost/support/2019_2020_MGWorldTour_Kamis.jpeg"],
   [1, "'Chibimetal' (BM Returns/BM Begins)",    [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
   [1, "Metal Kingdom dancers (BM Returns)",     [0,0,0,0,1,0,0,0], "bmcost/support/2023_MK.png"],
-  [1, "The Legend dancers/The First Take robes",[0,0,0,0,1,0,0,0], "bmcost/support/2023_TheLegend.jpg"],
+  [1, "The Legend dancers (BM Returns)",        [0,0,0,0,1,0,0,0], "bmcost/support/2023_TheLegend.jpg"],
   [1, "Kami band (2023-)",                      [0,0,0,0,1,0,0,0], "bmcost/support/2023_Kamis.jpg"]
   
 ];
