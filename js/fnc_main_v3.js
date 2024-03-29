@@ -76,7 +76,7 @@ function startup() {
       // new_CheckBox.setAttribute('checked', 'true', 0);
       new_CheckBox.value = ary_TitleData[i];
       new_CheckBox.title = ary_TitleData[i];
-      if (new_CheckBox.value == 'Concerts (20)') {
+      if (new_CheckBox.value == 'Concerts (21)') {
 	      new_CheckBox.setAttribute('checked', 'true', 0);
       }
       new_CheckBox.id = 'optSelect' + i;
