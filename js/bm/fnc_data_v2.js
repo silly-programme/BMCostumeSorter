@@ -28,10 +28,10 @@ var maxRows = 20;
 var int_Colspan = 3;
 var ary_TitleData = [
  "Concerts (21)",    // After changing this, remember to go to /js/fnc_main_v3.js and change if statement for default checked box
- "Song-specific & finales (29)",
- "Alternate tour versions (4)",
- "Photoshoots (10)",
- "Support personnel (12)"
+ "Song-specific & finales (31)",
+ "Alternate tour versions (5)",
+ "Photoshoots (11)",
+ "Support personnel (15)"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
