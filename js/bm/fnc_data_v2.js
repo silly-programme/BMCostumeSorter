@@ -27,7 +27,7 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
- "Concerts (20)",    // After changing this, remember to go to /js/fnc_main_v3.js and change if statement for default checked box
+ "Concerts (21)",    // After changing this, remember to go to /js/fnc_main_v3.js and change if statement for default checked box
  "Song-specific & finales (29)",
  "Alternate tour versions (4)",
  "Photoshoots (10)",
@@ -45,22 +45,23 @@ var ary_CharacterData = [
   [1, "Legend D & Z",                           [1,0,0,0,0,0,0,0], "bmcost/2012_LegendDZ.jpeg"],
   [1, "Legend 1999",                            [1,0,0,0,0,0,0,0], "bmcost/2013_Legend1999.jpeg"],
   [1, "Legend 1997",                            [1,0,0,0,0,0,0,0], "bmcost/2013_Legend1997.png"],
-  [1, "May Revolution/DEATH MATCH",             [1,0,0,0,0,0,0,0], "bmcost/2013_MayRevolution.jpeg"],
+  [1, "May Revolution/Death Match",             [1,0,0,0,0,0,0,0], "bmcost/2013_MayRevolution.jpeg"],
   [1, "Budokan Red Night",                      [1,0,0,0,0,0,0,0], "bmcost/2014_BudokanRed.jpeg"],
   [1, "Budokan Black Night",                    [1,0,0,0,0,0,0,0], "bmcost/2014_BudokanBlack.png"],
   [1, "World Tour 2014",                        [1,0,0,0,0,0,0,0], "bmcost/2014_WorldTour.jpeg"],
-  [1, "World Tour & SSA & MM 2015",             [1,0,0,0,0,0,0,0], "bmcost/2015_WorldTour.jpeg"],
+  [1, "World Tour 2015",                        [1,0,0,0,0,0,0,0], "bmcost/2015_WorldTour.jpeg"],
   [1, "Yokohama 2015",                          [1,0,0,0,0,0,0,0], "bmcost/2015_Yoko15.jpeg"],
-  [1, "Wembley & World Tour 2016",              [1,0,0,0,0,0,0,0], "bmcost/2016_WorldTour.jpeg"],
+  [1, "World Tour 2016",                        [1,0,0,0,0,0,0,0], "bmcost/2016_WorldTour.jpeg"],
   [1, "Tokyo Dome Red Night",                   [1,0,0,0,0,0,0,0], "bmcost/2016_TDRed.jpeg"],
   [1, "Tokyo Dome Black Night",                 [1,0,0,0,0,0,0,0], "bmcost/2016_TDBlack.jpeg"],
-  [1, "World Tour 2017 & 5FF & BigFF",          [1,0,0,0,0,0,0,0], "bmcost/2017_WorldTour.jpeg"],
+  [1, "World Tour 2017",                        [1,0,0,0,0,0,0,0], "bmcost/2017_WorldTour.jpeg"],
   [1, "Legend S",                               [1,0,0,0,0,0,0,0], "bmcost/2017_LegendS.jpg"],
   [1, "World Tour (US/EU) 2018",                [1,0,0,0,0,0,0,0], "bmcost/2018_WorldTour.jpg"],
   [1, "World Tour (JP) 2018 & DNC",             [1,0,0,0,0,0,0,0], "bmcost/2018_WorldTourInJapan.png"],
   [1, "Metal Galaxy World Tour",                [1,0,0,0,0,0,0,0], "bmcost/2019_2020_MGWorldTour.jpeg"],
   [1, "10 BABYMETAL Years",                     [1,0,0,0,0,0,0,0], "bmcost/2020_2021_10BMY.jpeg"],
-  [1, "BM Begins Clear Night & WT 2023",        [1,0,0,0,0,0,0,0], "bmcost/2023.png"],
+  [1, "World Tour (EU support/JP/SEA/Aus) 2023",[1,0,0,0,0,0,0,0], "bmcost/2023.png"],
+  [1, "World Tour (EU headline/US) 2023",       [1,0,0,0,0,0,0,0], "bmcost/2023_US_EU.jpg"],
   
   [1, "Doki Doki Morning MV",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Ijime, Dame, Zettai MV intro",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
@@ -91,6 +92,8 @@ var ary_CharacterData = [
   [1, "The One (World Tour JP 2018)",           [0,1,0,0,0,0,0,0], "bmcost/special/2018_WorldTourInJapan_TheOne.jpeg"],
   [1, "The One (Metal Galaxy World Tour)",      [0,1,0,0,0,0,0,0], "bmcost/special/2019_2020_The One.png"],
   [1, "Metal Kingdom (JP shows)",               [0,1,0,0,0,0,0,0], "bmcost/special/2023_Thrones.jpg"],
+  [1, "The One & The Legend (10BMY)",           [0,1,0,0,0,0,0,0], "bmcost/special/2021_2023_TheOneTheLegend.jpg"],
+  [1, "The One (2023-2024)",                    [0,1,0,0,0,0,0,0], "bmcost/special/2023_TheOne.jpg"],
   
   [1, "BABYMETAL x CthoniC (Taiwan 2014)",      [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2014_Taiwan_sameasL1997buttransparentsleeves.png"],
   [1, "World Tour 2016 (transparent sleeves)",  [0,0,1,0,0,0,0,0], "bmcost/SLEEVES/2016_WorldTour_transparentsleeves.png"],
