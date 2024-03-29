@@ -111,6 +111,7 @@ var ary_CharacterData = [
   [1, "World Tour 2016 promo photos",           [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2016_TourPromo.jpeg"],
   [1, "Chosen Seven (2018)",                    [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2018_Chosen7.jpeg"],
   [1, "Metal Kingdom Thrones (2022)",           [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2022_Thrones.jpg"],
+  [1, "The First Take robes (2023)",            [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2023_TFT.jpg"],
   
   [1, "Babybones (Babybones are eternal)",      [0,0,0,0,1,0,0,0], "bmcost/support/Babybones.png"],
   [1, "Kami band (2012-2017)",                  [0,0,0,0,1,0,0,0], "bmcost/support/2012_2017_Kami.jpeg"],
@@ -124,8 +125,8 @@ var ary_CharacterData = [
   [1, "Muscle-metal (2018 World Tour/10BMY)",   [0,0,0,0,1,0,0,0], "bmcost/support/2018_WorldTour_dancers.jpeg"],
   [1, "Kami band (Metal Galaxy WT/10BMY)",      [0,0,0,0,1,0,0,0], "bmcost/support/2019_2020_MGWorldTour_Kamis.jpeg"],
   [1, "'Chibimetal' (BM Returns/BM Begins)",    [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
-  [1, "Metal Kingdom dancers (BM Returns)",     [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
-  [1, "The Legend dancers/The First Take robes",[0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"],
-  [1, "Kami band (2023-)",                      [0,0,0,0,1,0,0,0], "bmcost/support/2023_Chibimetal.jpg"]
+  [1, "Metal Kingdom dancers (BM Returns)",     [0,0,0,0,1,0,0,0], "bmcost/support/2023_MK.png"],
+  [1, "The Legend dancers/The First Take robes",[0,0,0,0,1,0,0,0], "bmcost/support/2023_TheLegend.jpg"],
+  [1, "Kami band (2023-)",                      [0,0,0,0,1,0,0,0], "bmcost/support/2023_Kamis.jpg"]
   
 ];
