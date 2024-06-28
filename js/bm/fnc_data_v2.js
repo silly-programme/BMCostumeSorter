@@ -62,6 +62,7 @@ var ary_CharacterData = [
   [1, "10 BABYMETAL Years",                     [1,0,0,0,0,0,0,0], "bmcost/2020_2021_10BMY.jpeg"],
   [1, "World Tour (EU support/JP/SEA/Aus) 2023",[1,0,0,0,0,0,0,0], "bmcost/2023.png"],
   [1, "World Tour (EU headline/US) 2023",       [1,0,0,0,0,0,0,0], "bmcost/2023_US_EU.jpg"],
+  [1, "World Tour 2024",                        [1,0,0,0,0,0,0,0], "bmcost/2024.jpg"],
   
   [1, "Doki Doki Morning MV",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Ijime, Dame, Zettai MV intro",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
