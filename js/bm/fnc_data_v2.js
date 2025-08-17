@@ -27,10 +27,10 @@ var maxRows = 20;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
- "Concerts (22)",    // After changing this, remember to go to /js/fnc_main_v3.js and change if statement for default checked box
+ "Concerts (23)",    // After changing this, remember to go to /js/fnc_main_v3.js and change if statement for default checked box
  "Song-specific & finales (31)",
  "Alternate tour versions (5)",
- "Photoshoots (11)",
+ "Photoshoots (12)",
  "Support personnel (15)"
 ];
 
@@ -63,6 +63,7 @@ var ary_CharacterData = [
   [1, "World Tour (EU support/JP/SEA/Aus) 2023",[1,0,0,0,0,0,0,0], "bmcost/2023.png"],
   [1, "World Tour (EU headline/US) 2023",       [1,0,0,0,0,0,0,0], "bmcost/2023_US_EU.jpg"],
   [1, "World Tour 2024",                        [1,0,0,0,0,0,0,0], "bmcost/2024.jpg"],
+  [1, "World Tour 2025",                        [1,0,0,0,0,0,0,0], "bmcost/2025_WorldTour.jpg"],
   
   [1, "Doki Doki Morning MV",                   [0,1,0,0,0,0,0,0], "bmcost/special/2010_DDM_MV.png"],
   [1, "Ijime, Dame, Zettai MV intro",           [0,1,0,0,0,0,0,0], "bmcost/special/2011_IDZ_MV_black.png"],
@@ -113,6 +114,7 @@ var ary_CharacterData = [
   [1, "Chosen Seven (2018)",                    [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2018_Chosen7.jpeg"],
   [1, "Metal Kingdom Thrones (2022)",           [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2022_Thrones.jpg"],
   [1, "The First Take robes (2023)",            [0,0,0,1,0,0,0,0], "bmcost/photoshoots/2023_TFT.jpg"],
+  [1, "Various photoshoots 2025",               [0,0,0,1,0,0,0,0], "bmcost/photoshoots/WT25_photoshoots.jpg"],
   
   [1, "Babybones (Babybones are eternal)",      [0,0,0,0,1,0,0,0], "bmcost/support/Babybones.png"],
   [1, "Kami band (2012-2017)",                  [0,0,0,0,1,0,0,0], "bmcost/support/2012_2017_Kami.jpeg"],
